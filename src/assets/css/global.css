@@ -1,0 +1,30 @@
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(178, 178, 241);
+    padding: 0 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cat-holder, .cat-holder img {
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.cat-holder img {
+    position: absolute;
+}
+
+.actions-holder {
+    width: 300px;
+    height: 40px;
+}
+
+.liked-cat,
+.liked-cat img {
+    height: 250px;
+    width: 250px;
+    border-radius: 25px;
+}
