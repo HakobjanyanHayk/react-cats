@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-cats.git/static/css/main.28894e89.chunk.css",
+    "main.js": "/react-cats.git/static/js/main.9932f370.chunk.js",
+    "main.js.map": "/react-cats.git/static/js/main.9932f370.chunk.js.map",
+    "runtime-main.js": "/react-cats.git/static/js/runtime-main.0d422d2a.js",
+    "runtime-main.js.map": "/react-cats.git/static/js/runtime-main.0d422d2a.js.map",
+    "static/css/2.f2512455.chunk.css": "/react-cats.git/static/css/2.f2512455.chunk.css",
+    "static/js/2.e9e730e2.chunk.js": "/react-cats.git/static/js/2.e9e730e2.chunk.js",
+    "static/js/2.e9e730e2.chunk.js.map": "/react-cats.git/static/js/2.e9e730e2.chunk.js.map",
+    "static/js/3.78bfe07e.chunk.js": "/react-cats.git/static/js/3.78bfe07e.chunk.js",
+    "static/js/3.78bfe07e.chunk.js.map": "/react-cats.git/static/js/3.78bfe07e.chunk.js.map",
+    "index.html": "/react-cats.git/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/react-cats.git/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.28894e89.chunk.css.map": "/react-cats.git/static/css/main.28894e89.chunk.css.map",
+    "static/js/2.e9e730e2.chunk.js.LICENSE.txt": "/react-cats.git/static/js/2.e9e730e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d422d2a.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.e9e730e2.chunk.js",
+    "static/css/main.28894e89.chunk.css",
+    "static/js/main.9932f370.chunk.js"
+  ]
+}
